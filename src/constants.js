@@ -41,7 +41,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 // Education Section Logo's
 import mnnitLogo from './assets/education_logo/MNNIT_logo.jpg';
 import dbLogo from './assets/education_logo/DB_PUBLIC_LOGO.jpg';
-import samLogo from './assets/education_logo/sambhawana_logo.png';
+import samLogo from './assets/education_logo/Sambhawana_logo.png';
 
 // Project Section Logo's
 import StudyNotionLogo from './assets/work_logo/StudyNotion.png';
