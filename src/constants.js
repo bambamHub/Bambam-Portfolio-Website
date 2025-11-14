@@ -141,7 +141,7 @@ export const SkillsInfo = [
     {
       id: 1,
       img: dbLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
+      school: " D.B. Public School, Ara , Bhojpur ",
       date: "Apr 2019 - March 2021",
       grade: "90%",
       desc: "I completed my class 12 education from D.B. Public School, Ara , Bhojpur, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM).",
@@ -150,7 +150,7 @@ export const SkillsInfo = [
     {
       id: 2,
       img: samLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
+      school: "Sambhawana Awasiya Uchcha Vidyalaya,Ara ",
       date: "Apr 2018 - March 2019",
       grade: "93.4%",
       desc: "I completed my class 10 education from Sambhawana Awasiya Uchcha Vidyalaya, Ara, under the CBSE board, where I studied Science with Computer.",
