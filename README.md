@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]([(https://bambamgupta.vercel.app/)])
+🔗 [View Portfolio Live](https://bambamgupta.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -23,20 +23,8 @@
 - Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
 
 📁 Project Structure
-text
-portfolio/
-├── src/
-│   ├── components/     # Reusable React components
-│   ├── pages/          # Page components
-│   ├── assets/         # Images, fonts, etc.
-│   ├── App.jsx         # Main app component
-│   └── main.jsx        # Entry point
-├── public/             # Static assets
-├── package.json        # Dependencies & scripts
-├── tailwind.config.js  # Tailwind configuration
-├── vite.config.js      # Vite configuration
-└── README.md           # Project documentation
-🚀 Getting Started
+<img width="911" height="366" alt="image" src="https://github.com/user-attachments/assets/523c0ca2-5aa5-4b67-9811-af201ac6bdf0" />
+
 
 <div align="center">
 ⭐ Star this repository if you found it helpful!
